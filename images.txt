@@ -1,2 +1,3 @@
-quay.io/jetstack/cert-manager-controller:v0.2.5
-quay.io/jetstack/cert-manager-ingress-shim:v0.2.5
+quay.io/jetstack/cert-manager-controller:v0.8.1
+quay.io/jetstack/cert-manager-cainjector:v0.8.1
+quay.io/jetstack/cert-manager-webhook:v0.8.1
